@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "466844535050",
+    "firebase_url": "https://track-folks.firebaseio.com",
+    "project_id": "track-folks",
+    "storage_bucket": "track-folks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466844535050:android:ff05b7a1e53c095fa692f3",
+        "android_client_info": {
+          "package_name": "com.trackfolks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466844535050-5kictl4sgcrs5tdiua3md5d4pt1kciu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trackfolks",
+            "certificate_hash": "73e95f29f71afb70098c07867f1c3e5c608d9bf4"
+          }
+        },
+        {
+          "client_id": "466844535050-01lnpkkv40j40rsnejuotj5p28pgc7ja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trackfolks",
+            "certificate_hash": "ed6e9c1f981ac836b11700a86e06cae1de2677a6"
+          }
+        },
+        {
+          "client_id": "466844535050-kf754lf370jaoa3k469lost6ej3lk4pf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trackfolks",
+            "certificate_hash": "78b837bbe70acbc10c02ae6edc0ae04b37baaf6b"
+          }
+        },
+        {
+          "client_id": "466844535050-puq4d79q99ik63a14061chqg4cdqh77f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeXkSuzt0SEVFbELTbi5sebvyxqutxEZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466844535050-puq4d79q99ik63a14061chqg4cdqh77f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

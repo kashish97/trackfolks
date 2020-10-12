@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1094158609082",
+    "firebase_url": "https://trackfolks-ca41a.firebaseio.com",
+    "project_id": "trackfolks-ca41a",
+    "storage_bucket": "trackfolks-ca41a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094158609082:android:69e7d465e5a79bcddaf083",
+        "android_client_info": {
+          "package_name": "com.trackfolks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094158609082-3sp42i8visqn32q5kg4nuf94i6fparfc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trackfolks",
+            "certificate_hash": "73e95f29f71afb70098c07867f1c3e5c608d9bf4"
+          }
+        },
+        {
+          "client_id": "1094158609082-ammr2o8beji5ljuf8f9al6qppj4mptv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXexKmo7CT1Qnit1WFBlZ_xRcS7NODQSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094158609082-ammr2o8beji5ljuf8f9al6qppj4mptv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
